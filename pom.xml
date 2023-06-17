@@ -8,7 +8,7 @@
 	
         <version>0.0.2-SNAPSHOT</version>
 	
-	<name>maven-standalone-application<name>
+	<name>maven-standalone-application</name>
 
 	<description>Maven Standalone Application</description>
 
