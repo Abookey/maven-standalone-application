@@ -17,8 +17,6 @@
                 <url>http://mylandmarktech.com/</url>
         </organization>
 
-        <description>Maven Standalone Application</description>
-
         <properties>
 		jdk.version>1.8</jdk.version>
 		<spring.version>5.1.2.RELEASE</spring.version>
@@ -33,7 +31,6 @@
 
         <dependencies>
 
-        
 	<dependencies>
 		
 		<dependency>
